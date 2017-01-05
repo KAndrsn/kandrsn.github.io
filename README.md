@@ -1,6 +1,3 @@
----
-title: Kurt Anderson
----
+# Kurt Anderson on GitHub
 
-# kandrsn.github.io
-All about me
+Under Construction
